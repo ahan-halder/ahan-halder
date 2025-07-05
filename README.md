@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahan-halder&count_private=true&show_icons=true&theme=radical" height="180" />

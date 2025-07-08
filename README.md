@@ -30,10 +30,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://codeforces.com/profile/AhanH31">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AhanH31" height="150" width="300" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AhanH31" height="200" width="300" />
   </a>
   <a href="https://leetcode.com/u/ahan1234/">
-    <img src="https://leetcard.jacoblin.cool/ahan1234?ext=contest" height="150" width="300" />
+    <img src="https://leetcard.jacoblin.cool/ahan1234?ext=contest" height="200" width="300" />
   </a>
 </div>
 

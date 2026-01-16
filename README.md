@@ -8,8 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahan-halder-229814285/)
 [![LeetCode user ahan1234](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fahan1234&logo=leetcode&logoColor=yellow)](https://leetcode.com/ahan1234/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=AhanH31)](https://codeforces.com/profile/AhanH31)
-
-
+<img src="https://komarev.com/ghpvc/?username=ahan-halder&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
 
 </div>
 
@@ -49,9 +48,13 @@
 ---
 
 ### 📊 GitHub Stats
-
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahan-halder&theme=radical)
 <div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="ahan-halder's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ahan-halder?cardType=level&fontFamily=&preferLogin=false" />  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahan-halder&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-halder&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahan-halder&theme=radical" alt="streak graph" />
 </div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahan-halder&theme=radical" />

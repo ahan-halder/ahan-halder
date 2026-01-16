@@ -51,8 +51,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahan-halder&count_private=true&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-halder&layout=compact&theme=radical" height="180" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="ahan-halder's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ahan-halder?cardType=level&fontFamily=&preferLogin=false" />  </a>
 </div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahan-halder&theme=radical" />

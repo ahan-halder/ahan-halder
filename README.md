@@ -48,17 +48,23 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahan-halder&theme=radical)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahan-halder&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-halder&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div> -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahan-halder&theme=radical" alt="streak graph" />
+
+  <a href="https://github.com/ahan-halder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahan-halder&theme=2077" alt="Github Stats" />
+  </a>
+  <a href="https://github.com/ahan-halder">
+    <img src="https://streak-stats.demolab.com?user=ahan-halder&theme=radical" alt="Streak Stats" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/ahan-halder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahan-halder&theme=2077" alt="Profile Details" />
+  </a>
+
 </div>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahan-halder&theme=radical" />
-</p>
+
 
 ---
 

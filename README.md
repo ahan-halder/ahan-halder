@@ -53,9 +53,7 @@
   <a href="https://github.com/ahan-halder">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahan-halder&theme=2077" alt="Github Stats" />
   </a>
-  <a href="https://github.com/ahan-halder">
-    <img src="https://streak-stats.demolab.com?user=ahan-halder&theme=radical" alt="Streak Stats" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahan-halder&theme=radical" alt="GitHub Streak" /></a>
 
   <br/>
 

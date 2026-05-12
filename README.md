@@ -16,6 +16,7 @@
 
 ### 👋 About Me
 
+- 🌐 **Portfolio:** [ahan-halder-portfolio.vercel.app](https://ahan-halder-portfolio.vercel.app/)
 - 🚀 I'm a self-taught programmer and tech enthusiast driven by curiosity and a passion for building things.
 - 🧠 I work on Machine Learning projects, including deep learning and reinforcement learning.
 - 🏁 I actively participate in Competitive Programming to sharpen my problem-solving skills.

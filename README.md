@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/AhanH31">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AhanH31](https://codeforces-readme-stats.vercel.app/api/card?username=AhanH31&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)" width="350" />
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AhanH31&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" width="350" />
       </a>
     </td>
     <td align="center">
